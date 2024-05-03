@@ -1,6 +1,6 @@
 
 
-```
+
 | No. | Google Dork                                                                  | Description                                                                     |
 |-----|------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | 1   | `intitle:"login" site:example.com`                                          | Search for login pages on a specific website for authentication testing.       |
