@@ -1,6 +1,3 @@
-
-
-
 | No. | Google Dork                                                                  | Description                                                                     |
 |-----|------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | 1   | `intitle:"login" site:example.com`                                          | Search for login pages on a specific website for authentication testing.       |
@@ -42,4 +39,14 @@
 | 37  | `intitle:"index of" "application.conf"`                                      | Search for Play Framework application configuration files with secrets.         |
 | 38  | `intitle:"index of" "proftpd.conf"`                                          | Search for ProFTPD server configuration files with potential sensitive info.    |
 | 39  | `intitle:"index of" "lighttpd.conf"`                                         | Search for Lighttpd server configuration files with potential sensitive data.  |
-| 40  | `intitle:"index of" "httpd.conf
+| 40  | `intitle:"index of" "httpd.conf"`                                            | Search for Apache HTTP server configuration files with sensitive info.          |
+| 41  | `intitle:"index of" "shadow"`                                                | Search for shadow files containing user account information on Unix-based systems.|
+| 42  | `intitle:"index of" "password"`                                              | Search for password files containing plaintext or hashed passwords.             |
+| 43  | `intitle:"index of" "backup"`                                                | Search for backup files with potential sensitive data.                          |
+| 44  | `intitle:"index of" "logs"`                                                  | Search for log files with potentially sensitive information.                     |
+| 45  | `intitle:"index of" "root"`                                                  | Search for files or directories named "root" with potential sensitive data.     |
+| 46  | `intitle:"index of" "bash_history"`                                          | Search for bash history files containing command-line history.                   |
+| 47  | `intitle:"index of" "sensitive"`                                             | Search for files or directories named "sensitive" with potential data.           |
+| 48  | `intitle:"index of" "confidential"`                                          | Search for files or directories named "confidential" with sensitive info.        |
+| 49  | `intitle:"index of" "top_secret"`                                            | Search for files or directories named "top_secret" with highly sensitive data.    |
+| 50  | `intitle:"index of" "classified"`                                            | Search for files or directories named "classified" with classified information.  |
