@@ -50,3 +50,13 @@
 | 48  | `intitle:"index of" "confidential"`                                          | Search for files or directories named "confidential" with sensitive info.        |
 | 49  | `intitle:"index of" "top_secret"`                                            | Search for files or directories named "top_secret" with highly sensitive data.    |
 | 50  | `intitle:"index of" "classified"`                                            | Search for files or directories named "classified" with classified information.  |
+| 51  | `intitle:"index of" "parent directory"`                                     | Search for directories listing parent directories, potentially exposing data.   |
+| 52  | `intitle:"index of" "directory listing"`                                    | Search for directory listings that may expose files and data.                   |
+| 53  | `intitle:"index of" "public"`                                                | Search for files or directories named "public" that may contain public data.     |
+| 54  | `intitle:"index of" "www"`                                                   | Search for directories typically associated with website root directories.      |
+| 55  | `intitle:"index of" "files"`                                                 | Search for directories named "files" that may contain various types of data.    |
+| 56  | `intitle:"index of" "data"`                                                  | Search for directories or files named "data" that may contain data sets or logs. |
+| 57  | `intitle:"index of" "assets"`                                                | Search for directories named "assets" that may contain various resource files.   |
+| 58  | `intitle:"index of" "public_html"`                                           | Search for directories typically used for serving web content publicly.          |
+| 59  | `intitle:"index of" "wwwroot"`                                               | Search for directories typically used as web server root directories.            |
+| 60  | `intitle:"index of" "uploads"`                                               | Search for directories named "uploads" that may contain user-uploaded files.     |
