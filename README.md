@@ -60,3 +60,13 @@
 | 58  | `intitle:"index of" "public_html"`                                           | Search for directories typically used for serving web content publicly.          |
 | 59  | `intitle:"index of" "wwwroot"`                                               | Search for directories typically used as web server root directories.            |
 | 60  | `intitle:"index of" "uploads"`                                               | Search for directories named "uploads" that may contain user-uploaded files.     |
+| 61  | `intitle:"Swagger UI"`                                                       | Search for Swagger UI instances, which may expose API documentation.            |
+| 62  | `intitle:"index of" "swagger.json"`                                          | Search for Swagger JSON files, often used to describe APIs.                      |
+| 63  | `intitle:"index of" "api-docs"`                                              | Search for API documentation directories that may be publicly accessible.        |
+| 64  | `intitle:"index of" "api/v1"`                                                | Search for API endpoints that follow a versioning convention.                    |
+| 65  | `intitle:"index of" "api/v2"`                                                | Search for API endpoints of a specific version, if applicable.                   |
+| 66  | `intitle:"index of" "rest/api"`                                              | Search for REST API endpoints.                                                   |
+| 67  | `intitle:"index of" "graphql"`                                                | Search for GraphQL API endpoints.                                                |
+| 68  | `intitle:"index of" "api/swagger.yaml"`                                      | Search for Swagger YAML files describing APIs.                                    |
+| 69  | `intitle:"index of" "api/swagger.json"`                                      | Search for Swagger JSON files describing APIs.                                    |
+| 70  | `intitle:"index of" "api-docs/swagger.json"`                                 | Search for Swagger JSON files in API documentation directories.                   |
